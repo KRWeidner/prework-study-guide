@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-Used to display notes about our four topics HTML,CSS,JS, and GIT. You can also check the console window for a list of topics and advise on what to study first.
+Used to display notes about our four topics HTML,CSS,JS, and GIT. You can also check the console window for a list of topics and advice on what to study first.
 
 ## Credits
 
